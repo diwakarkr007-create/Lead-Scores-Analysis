@@ -26,9 +26,9 @@ By successfully identifying high-probability leads, the company can:
 ```text
 diwakarkr007-create/Lead-Scores-Analysis
 │
-├── data/                   # Raw and processed datasets (if applicable)
-├── notebooks/              # Jupyter notebooks containing EDA and model building
-├── src/                    # Python scripts for data preprocessing and scoring
-├── presentations/          # Final reports and presentation slides
-├── README.md               # Project documentation
-└── requirements.txt        # Required Python dependencies
+├── Lead-Scoring-Assignment.zip/   # Raw and processed datasets (if applicable)
+├── notebooks/                     # Jupyter notebooks containing EDA and model building
+├── src/                           # Python scripts for data preprocessing and scoring
+├── presentations/                 # Final reports and presentation slides
+├── README.md                      # Project documentation
+└── requirements.txt               # Required Python dependencies
